@@ -10,6 +10,13 @@ This repository showcases my journey as a Senior Technical Program Manager trans
 
 I'm a seasoned Technical Program Manager with extensive experience in scaling complex systems and leading cross-functional teams. My background spans enterprise software, cloud infrastructure, and now AI strategy. This portfolio demonstrates my commitment to mastering AI technologies while leveraging my domain expertise to address real-world challenges in AI governance and compliance.
 
+## Certifications
+
+### AWS Certified AI Practitioner
+Passed July 2026 — validates hands-on knowledge of AI/ML fundamentals, generative AI, and responsible AI practices on AWS.
+
+[View credential on Credly →](https://www.credly.com/badges/cea0e2c3-17d9-4e44-a3b9-e1640a51e73a/public_url)
+
 ## Featured Projects
 
 ### AI Governance Framework
