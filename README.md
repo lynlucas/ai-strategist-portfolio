@@ -10,6 +10,10 @@ This repository showcases my journey as a Senior Technical Program Manager trans
 
 I'm a seasoned Technical Program Manager with extensive experience in scaling complex systems and leading cross-functional teams. My background spans enterprise software, cloud infrastructure, and now AI strategy. This portfolio demonstrates my commitment to mastering AI technologies while leveraging my domain expertise to address real-world challenges in AI governance and compliance.
 
+## Background
+
+Prior enterprise AI/security work: Enterprise-scale IAM/security AI enablement work, details confidential under NDA. Related public context: [Tags on AWS](https://docs.aws.amazon.com/whitepapers/latest/tagging-best-practices/what-are-tags.html).
+
 ## Certifications
 
 ### AWS Certified AI Practitioner
@@ -27,6 +31,9 @@ Scripts for automating regulatory compliance checks, data privacy assessments, a
 
 ### Strategic Analysis Dashboard
 Interactive Python applications for analyzing AI adoption trends, risk assessments, and strategic planning insights.
+
+### [AI-Orchestrated Content Operations System](case-studies/AI-Content-Operations-System.md)
+A live, self-built system using Claude + MCP integrations (Notion, Slack, Gmail, Calendar, Drive) to run content strategy, production tracking, and data-driven publish/hold decisions for a 54K-follower multi-platform content brand.
 
 ## Technologies
 
